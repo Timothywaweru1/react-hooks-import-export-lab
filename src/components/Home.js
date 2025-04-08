@@ -1,4 +1,6 @@
 import React from "react";
+let username = "Liza"
+const city = "New York"
 
 function Home() {
   return (
@@ -9,3 +11,4 @@ function Home() {
     </div>
   );
 }
+export default Home
